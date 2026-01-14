@@ -1,0 +1,7 @@
+{
+  "name": "Tech Grock AI",
+  "description": "A comprehensive AI toolkit powered by Gemini. Ask questions, generate and edit images/videos, have live conversations, transcribe audio, and get up-to-date information with search grounding. Your all-in-one AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
